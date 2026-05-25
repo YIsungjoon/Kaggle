@@ -16,12 +16,13 @@
 competitions/
   neurogolf-2026/
     README.md
-    docs/
     notes/
     notebooks/
     src/
     submissions/
 data/
+  neurogolf-2026/
+docs/
   neurogolf-2026/
 ```
 

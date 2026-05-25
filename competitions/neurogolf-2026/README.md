@@ -8,7 +8,7 @@ Goal: design the smallest possible ONNX neural networks that solve ARC-AGI image
 
 ```text
 data/neurogolf-2026/                  # raw task JSON files, ignored by git
-competitions/neurogolf-2026/docs/     # stable competition notes
+docs/neurogolf-2026/                  # stable competition notes
 competitions/neurogolf-2026/notes/    # working notes and task analysis
 competitions/neurogolf-2026/notebooks/# exploratory notebooks
 competitions/neurogolf-2026/src/      # reusable code
@@ -17,8 +17,8 @@ competitions/neurogolf-2026/submissions/
 
 ## Reference Notes
 
-- [Important constraints](docs/constraints.md)
-- [Data notes](docs/data.md)
+- [Important constraints](../../docs/neurogolf-2026/constraints.md)
+- [Data notes](../../docs/neurogolf-2026/data.md)
 
 ## Current Understanding
 
