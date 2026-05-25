@@ -1,0 +1,27 @@
+# Kaggle raw data and local caches
+data/
+.kaggle/
+
+# Generated artifacts
+*.zip
+*.onnx
+*.pth
+*.pt
+*.ckpt
+*.pkl
+*.joblib
+
+# Notebook and Python cache noise
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Local environment files
+.env
+.venv/
+venv/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
